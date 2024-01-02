@@ -1,0 +1,20 @@
+[
+  {
+    "Category": "SCIENCE",
+    "Question":
+      "This organ removes excess glucose from the blood & stores it as glycogen",
+    "Answer": "Liver",
+  },
+  {
+    "Category": "SCIENCE",
+    "Question":
+      "Changes in the tropospheric layer of this are what gives us weather",
+    "Answer": "the atmosphere",
+  },
+  {
+    "Category": "SCIENCE",
+    "Question":
+      "In 70-degree air, a plane traveling at about 1,130 feet per second breaks it",
+    "Answer": "Sound barrier",
+  },
+];
